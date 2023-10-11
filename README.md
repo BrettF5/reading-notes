@@ -7,18 +7,14 @@ Hello, my name is Brett Fort. I have 10+ years experience in IT career field wit
 
 This site was built using GitHub Pages [Brett's GitHub Profile](https://github.com/BrettF5)
 
-Explain “growth mindset” in your own words
-
 **Growth Mindset:**
 
 *Growth Mindset* is the ability to learn through experience and failures. Learning from overcome obstacales with effort and the will to keep on trying. Being able to learn from the success of others work. 
 
-**Reminders for Growth mindset**
+**Reminders for Growth mindset:**  :student:
 
-1. The ability to learn from your mistakes as they are not failures but a learning opportunity.
-1. Learn from other people seeing how they overcame obstacales
-1. Once you succceed in learning a process, critique yourself and see what you can do to improve the process.
-
-Utilize at least 5 different features of Markdown to structure your page
+1. ***The ability to learn from your mistakes as they are not failures but a learning opportunity.***
+1. ***Learn from other people seeing how they overcame obstacales***
+1. ***Once you succceed in learning a process, critique yourself and see what you can do to improve the process.***
 
 ## My Code Fellows Reading Notes
