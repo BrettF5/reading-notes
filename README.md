@@ -1,4 +1,5 @@
 # My Code Fellows Reading Notes
+#Please do not grade yet. I'm working a day behind due to missing Monday. 
 My Code Fellows Reading Notes
 
 Explain “growth mindset” in your own words
