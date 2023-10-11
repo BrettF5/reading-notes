@@ -2,4 +2,4 @@
 My Code Fellows Reading Notes
 
 
-https://github.com/BrettF5
+This site was built using GitHub Pages [Brett's GitHub Profile](https://github.com/BrettF5)
