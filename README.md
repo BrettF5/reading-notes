@@ -14,7 +14,7 @@ This site was built using GitHub Pages [Brett's GitHub Profile](https://github.c
 **Reminders for Growth mindset:**  :student:
 
 1. ***The ability to learn from your mistakes as they are not failures but a learning opportunity.***
-1. ***Learn from other people seeing how they overcame obstacales***
+1. ***Learn from other people work and seeing how they overcame their obstacales.***
 1. ***Once you succceed in learning a process, critique yourself and see what you can do to improve the process.***
 
 ## My Code Fellows Reading Notes
