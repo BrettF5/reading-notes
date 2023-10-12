@@ -19,14 +19,21 @@ This site was built using GitHub Pages [Brett's GitHub Profile](https://github.c
 
 ### Code 102 Reading Notes
 
-Class 01 [Class 01](https://BrettF5.github.io/reading-notes/code102/class-01)
-Class 02 [Class 02](https://BrettF5.github.io/reading-notes/code102/class-02)
-Class 03 [Class 03](https://BrettF5.github.io/reading-notes/code102/class-03)
-Class 04 [Class 04](https://BrettF5.github.io/reading-notes/code102/class-04)
-Class 05 [Class 05](https://BrettF5.github.io/reading-notes/code102/class-05)
-Class 06 [Class 06](https://BrettF5.github.io/reading-notes/code102/class-06)
-Class 07 [Class 07](https://BrettF5.github.io/reading-notes/code102/class-07)
-Class 08 [Class 08](https://BrettF5.github.io/reading-notes/code102/class-08)
+1. [Class 01 Learning Markdown](https://BrettF5.github.io/reading-notes/code102/class-01)
+
+2. [Class 02 The Coder’s Computer](https://BrettF5.github.io/reading-notes/code102/class-02)
+
+3. [lass 03 Revisions and the Cloud](https://BrettF5.github.io/reading-notes/code102/class-03)
+
+4. [Class 04 Structure Web Pages with HTML](https://BrettF5.github.io/reading-notes/code102/class-04)
+
+5. [CClass 05 Design Web Pages with CSS](https://BrettF5.github.io/reading-notes/code102/class-05)
+
+6. [Class 06 Dynamic Web Pages with JavaScript](https://BrettF5.github.io/reading-notes/code102/class-06)
+
+7. [Class 07](https://BrettF5.github.io/reading-notes/code102/class-07)
+
+8. [Class 08](https://BrettF5.github.io/reading-notes/code102/class-08)
 
 ### Code 201 Reading Notes
 
