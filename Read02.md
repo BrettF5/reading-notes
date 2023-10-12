@@ -24,10 +24,11 @@
 ---  
 
 ## Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.
-The  `cd projects  Changes to the directory to the child Project direcotry. 
+The  `cd projects`  Changes to the directory to the child Project direcotry.
+
   `mkdir new-project`  Will make a new directory named new-project.
   `touch new-project/newfile.md`  Will create a new filed called newfile.md in the child folder new-project
   `cd ..`  Changes the current working directory to the parent director. 
-  `ls`  projects/new-project Shows the list of contents (files and direcotries) in the projects/new-project directory
+  `ls  projects/new-project Shows the list of contents (files and direcotries) in the projects/new-project directory
 
 
