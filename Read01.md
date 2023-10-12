@@ -1,5 +1,7 @@
 # Read: 01 - Learning Markdown
 
+Link to my Read 01 - Learning Markdown. [What I learned in Markdown](https://BrettF5.github.io/reading-notes/Read01)
+
 ## What I learned about Markdown:
 
 Markdown is a lightweight markup language that allows user to format plain text with specific syntax into html. It makes it easy for user to write html files with easy to follow syntax.  It is for generation basic HTML files. It is not a WYSIWG editor. It is used for publishing written content on the web avoiding cumbersome need of use of html. A lot of readme files use Markdown. 
@@ -28,4 +30,3 @@ To create a link in Markdown you need to added a text description within open an
 - plus sign (+)
 
 
-Link to my Read 01 - Learning Markdown. [What I learned in Markdown](https://BrettF5.github.io/reading-notes/Read01)
