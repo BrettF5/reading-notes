@@ -16,3 +16,32 @@ This site was built using GitHub Pages [Brett's GitHub Profile](https://github.c
 1. ***Once you succceed in learning a process, critique yourself and see what you can do to improve the process.***
 
 ## My Code Fellows Reading Notes
+
+### Code 102 Reading Notes
+
+Class 01 [Class 01](https://BrettF5.github.io/reading-notes/code102/class-01)
+Class 02 [Class 02](https://BrettF5.github.io/reading-notes/code102/class-02)
+Class 03 [Class 03](https://BrettF5.github.io/reading-notes/code102/class-03)
+Class 04 [Class 04](https://BrettF5.github.io/reading-notes/code102/class-04)
+Class 05 [Class 05](https://BrettF5.github.io/reading-notes/code102/class-05)
+Class 06 [Class 06](https://BrettF5.github.io/reading-notes/code102/class-06)
+Class 07 [Class 07](https://BrettF5.github.io/reading-notes/code102/class-07)
+Class 08 [Class 08](https://BrettF5.github.io/reading-notes/code102/class-08)
+
+### Code 201 Reading Notes
+
+Class 01 [Class 01](https://BrettF5.github.io/reading-notes/code201/class-01)
+Class 02 [Class 02](https://BrettF5.github.io/reading-notes/code201/class-02)
+Class 03 [Class 03](https://BrettF5.github.io/reading-notes/code201/class-03)
+Class 04 [Class 04](https://BrettF5.github.io/reading-notes/code201/class-04)
+Class 05 [Class 05](https://BrettF5.github.io/reading-notes/code201/class-05)
+Class 06 [Class 06](https://BrettF5.github.io/reading-notes/code201/class-06)
+Class 07 [Class 07](https://BrettF5.github.io/reading-notes/code201/class-07)
+Class 08 [Class 08](https://BrettF5.github.io/reading-notes/code201/class-08)
+Class 08 [Class 08](https://BrettF5.github.io/reading-notes/code201/class-09)
+Class 08 [Class 08](https://BrettF5.github.io/reading-notes/code201/class-10)
+Class 08 [Class 08](https://BrettF5.github.io/reading-notes/code201/class-11)
+Class 08 [Class 08](https://BrettF5.github.io/reading-notes/code201/class-12)
+Class 08 [Class 08](https://BrettF5.github.io/reading-notes/code201/class-13)
+Class 08 [Class 08](https://BrettF5.github.io/reading-notes/code201/class-14)
+Class 08 [Class 08](https://BrettF5.github.io/reading-notes/code201/class-15)
