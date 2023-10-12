@@ -19,7 +19,7 @@ You can also Italicsize text or phrases the same way but only uing one *asterisk
 
 ## Creating a Link in Markdown:
 
-To create a link in Markdown you need to added a text description within open and closed brackets. Immediately following the text descrition add the link with parentheses ()
+To create a link in Markdown you need to added a text description within open and closed brackets. Immediately following the text descrition add the link with parentheses ().
 [Readable Text desscription](Path to file/link)
 
 ## Bullet Symbols you can use to create an unordered list in Markdown.
@@ -28,4 +28,4 @@ To create a link in Markdown you need to added a text description within open an
 - plus sign (+)
 
 
-EX: My GitHub Reading Notes page is [Brett's Git Hub Reading Notes Homepage](https://brettf5.github.io/reading-notes/)
+Link to my Read 01 - Learning Markdown. [What I learned in Markdown](https://BrettF5.github.io/Read01/)
