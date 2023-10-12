@@ -11,15 +11,20 @@ Markdown is a lightweight markup language that allows user to format plain text 
 ### Heading level 3
 ** Six hash-tag will create the smallest heading **
 
-When making text bold or italicized for emphasis, it is best practice to use which symbol?
-Use asterisks (***text***). Underscore has some compatilbility issues with other applications.
 
-How do you create a link with Markdown?
-You need to inclose the link text in brackets and the URL followed in parentheses.
-EX: My GitHub Reading Notes page is [Brett's Git Hub Reading Notes Homepage](https://brettf5.github.io/reading-notes/)
+## Using Bold and Italic for adding emphasis in Markdown:
+
+For best practice use asterisks (***text***). Underscore has some compatilbility issues with other applications.
+
+## Creating a Link in Markdown:
+
+To create a link in Markdown you need to added a text description within open and closed brackets. Immediately following the text descrition add the link with parentheses ()
 [Readable Text desscription](Path to file/link)
 
-What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+## Bullet Symbols you can use to create an unordered list in Markdown.
 - dashes (-)
 - asterisks (*)
 - plus sign (+)
+
+
+EX: My GitHub Reading Notes page is [Brett's Git Hub Reading Notes Homepage](https://brettf5.github.io/reading-notes/)
