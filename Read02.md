@@ -1,5 +1,6 @@
 # Reading Notes: 02 - The Coder’s Computer
 
+Link to my Read 02 - [The Coder's Computer](https://BrettF5.github.io/reading-notes/Read02)
 ---
 
 ## What are four important features to look for in a text editor?
