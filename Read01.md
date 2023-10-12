@@ -28,4 +28,4 @@ To create a link in Markdown you need to added a text description within open an
 - plus sign (+)
 
 
-Link to my Read 01 - Learning Markdown. [What I learned in Markdown](https://BrettF5.github.io/Read01/)
+Link to my Read 01 - Learning Markdown. [What I learned in Markdown](https://BrettF5.github.io/reading-notes/Read01)
