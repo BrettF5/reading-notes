@@ -13,8 +13,9 @@ Markdown is a lightweight markup language that allows user to format plain text 
 
 
 ## Using Bold and Italic for adding emphasis in Markdown:
-
-For best practice use asterisks (***text***). Underscore has some compatilbility issues with other applications.
+If you want to **bold** text, add two asterisks (**) or two underscores (__) between the word or phrase you want to emphasis with these options.
+You can also Italicsize text or phrases the same way but only uing one *asterisk* or _underscore_.
+***For best practice use asterisks (***text***). Underscore has some compatilbility issues with other applications.***
 
 ## Creating a Link in Markdown:
 
