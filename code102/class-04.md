@@ -1,4 +1,4 @@
-#  *** Read: 04 - Structure web pages with HTML ***
+#  Read: 04 - Structure web pages with HTML
 
 ---  
 
@@ -38,4 +38,5 @@ Semantic elements are those that convey meaning to both web browser and the deve
 
 
 :wave:
-:point_right: Link to my Read 04 - [TStructure web pages with HTML](https://BrettF5.github.io/reading-notes/code102/Read04) :point_left:
+
+:point_right: Link to my Read 04 - [TStructure web pages with HTML](https://brettf5.github.io/reading-notes/code102/class-04) :point_left:
