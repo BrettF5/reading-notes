@@ -1,8 +1,8 @@
-Read: 05 - Design web pages with CSS
+# Read: 05 - Design web pages with CSS
 
 ---
 
-#E Class-05 Reading Notes:
+## Class-05 Reading Notes:
 
 *CSS* stands for Cascading Style Sheets.  It is a stylesheet language used to enhance the visual control presentation of a html site.  It allows you to add styles (colors, fonts, spacing and positioning) into the html elements. CSS will discribe how these elements in html are diplayed by adding colors, fonts, spacing, visualization and layout.  
 
@@ -28,7 +28,7 @@ The purpose of CSS is to control the visual presentation of web content, providi
 1. Inline Styles: Will be applied directly within HTML elements
 
 1. Internal Styles: Within the HTML, omterma; styles can be placed within a <style> tag.
-<h1 style='color: green;">Hello World!</h1>
+`<h1 style='color: green;">Hello World!</h1>`
 
 1. External Styles: Are stored in a sperate file (with a ".css" extension) and is linked within the html file. this is the perfered method.  
 
@@ -37,7 +37,7 @@ Within the '.css' file:
 
 `p {
      color: red;
-}``
+}`
 
 - 'p' is the sector, which will targets all '<p>' elements within the html file. 
 'color: red;' is the decclaration. 'color' is the CSS property, and 'red' is the value. 
