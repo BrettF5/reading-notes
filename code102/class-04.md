@@ -1,4 +1,4 @@
-#Read: 04 - Structure web pages with HTML
+#  *** Read: 04 - Structure web pages with HTML ***
 
 ---  
 
@@ -12,12 +12,12 @@ Hyper Text Markup Language is a simple text based language that is used to creat
 --- 
 
 
-##What is HTML and why do we use it?
+## What is HTML and why do we use it?
 
 HTML (Hyper Text Markup Language) is the language of the World Wide Web.   It is the standard text based formatting language used to build and display website. It will define the basic structure of your website without having the presentation part.
   
 
-##What are the 3 main parts of an HTML element?
+## What are the 3 main parts of an HTML element?
 
 1. Opening Tag
 1. Closing Tag
@@ -33,6 +33,8 @@ It is called an Attributes, it can contain extra information about the element.
 ## What is a semantic element?
 
 Semantic elements are those that convey meaning to both web browser and the developer.  They describe the purpose of the element and the type of content that inside them. There are nearly 100 semantic elements.
+
+--- 
 
 
 :wave:
