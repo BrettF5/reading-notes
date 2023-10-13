@@ -34,11 +34,11 @@ The purpose of CSS is to control the visual presentation of web content, providi
 
 *Within the '.css' file:*
 
-`
+```
 p {
      color: red;
 }
-`
+```
 
 - 'p' is the sector, which will targets all '<p>' elements within the html file. 'color: red;' is the decclaration. 'color' is the CSS property, and 'red' is the value. 
 
