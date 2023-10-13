@@ -4,7 +4,7 @@
 
 ## Class-05 Reading Notes:
 
-*CSS* stands for Cascading Style Sheets.  It is a stylesheet language used to enhance the visual control presentation of a html site.  It allows you to add styles (colors, fonts, spacing and positioning) into the html elements. CSS will discribe how these elements in html are diplayed by adding colors, fonts, spacing, visualization and layout.  
+**CSS** stands for Cascading Style Sheets.  It is a stylesheet language used to enhance the visual control presentation of a html site.  It allows you to add styles (colors, fonts, spacing and positioning) into the html elements. CSS will discribe how these elements in html are diplayed by adding colors, fonts, spacing, visualization and layout.  
 
 
 ### A brief overview of the key components and concepts in CSS:
@@ -34,16 +34,18 @@ The purpose of CSS is to control the visual presentation of web content, providi
 
 *Within the '.css' file:*
 
-`p {
+`
+p {
      color: red;
-}`
+}
+`
 
 - 'p' is the sector, which will targets all '<p>' elements within the html file. 
 'color: red;' is the decclaration. 'color' is the CSS property, and 'red' is the value. 
 
-> This will then make the website display all the '<p>' elemets in red. 
+*** This will then make the website display all the '<p>' elemets in red. ***
 
 
 :wave:
 
-:point_right: Link to my Read 05 - [TStructure web pages with HTML](https://brettf5.github.io/reading-notes/code102/class-05) :point_left:
+:point_right: Link to my Read 05 - [Design web pages with CSS](https://brettf5.github.io/reading-notes/code102/class-05) :point_left:
