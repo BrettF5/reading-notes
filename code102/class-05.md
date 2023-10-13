@@ -26,14 +26,13 @@ The purpose of CSS is to control the visual presentation of web content, providi
 ### What are the three ways to insert CSS into your project?
 
 1. Inline Styles: Will be applied directly within HTML elements
-
 1. Internal Styles: Within the HTML, omterma; styles can be placed within a <style> tag.
 `<h1 style='color: green;">Hello World!</h1>`
-
 1. External Styles: Are stored in a sperate file (with a ".css" extension) and is linked within the html file. this is the perfered method.  
 
-Write an example of a CSS rule that would give all <p> elements red text
-Within the '.css' file:
+### Write an example of a CSS rule that would give all <p> elements red text
+
+*Within the '.css' file:*
 
 `p {
      color: red;
@@ -42,4 +41,9 @@ Within the '.css' file:
 - 'p' is the sector, which will targets all '<p>' elements within the html file. 
 'color: red;' is the decclaration. 'color' is the CSS property, and 'red' is the value. 
 
-This will then make the website display all the '<p>' elemets in red. 
+> This will then make the website display all the '<p>' elemets in red. 
+
+
+:wave:
+
+:point_right: Link to my Read 05 - [TStructure web pages with HTML](https://brettf5.github.io/reading-notes/code102/class-05) :point_left:
