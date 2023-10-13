@@ -40,8 +40,11 @@ p {
 }
 ```
 
+\'p' is the sector, which will targets all 
+\'<p>' elements within the html file. 
+\'color: red;' is the decclaration. 
+\'color' is the CSS property, and 'red' is the value.
 
-\'p' is the sector, which will targets all \'<p>' elements within the html file. \'color: red;' is the decclaration. \'color' is the CSS property, and 'red' is the value.
 
 *** This will then make the website display all the \'<p>' elemets in red. ***
 
