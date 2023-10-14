@@ -85,5 +85,5 @@ It is used for defining parameters for a function which you will place inside th
 
 :wave:
 
-:point_right: Link to my Read 07 - [Programming with JavaScript](https://brettf5.github.io/reading-notes/code102/class-07) :point_l
+:point_right: Link to my Read 07 - [Programming with JavaScript](https://brettf5.github.io/reading-notes/code102/class-07) :point_left:
 
