@@ -15,9 +15,13 @@ This site was built using GitHub Pages [Brett's GitHub Profile](https://github.c
 1. ***Learn from other people work and seeing how they overcame their obstacales.***
 1. ***Once you succceed in learning a process, critique yourself and see what you can do to improve the process.***
 
-## My Code Fellows Reading Notes
+---
+This web site is about my learning development into Code Fellows Software Development course.
+---
 
-### Code 102 Reading Notes
+#  Reading Notes
+
+## Code 102 - Intro to Software Development
 
 1. [Class 01 Learning Markdown](https://BrettF5.github.io/reading-notes/code102/class-01)
 
@@ -35,7 +39,7 @@ This site was built using GitHub Pages [Brett's GitHub Profile](https://github.c
 
 8. [Class 08](https://BrettF5.github.io/reading-notes/code102/class-08)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 - [Class 01](https://BrettF5.github.io/reading-notes/code201/class-01)
 - [Class 02](https://BrettF5.github.io/reading-notes/code201/class-02)
@@ -52,3 +56,9 @@ This site was built using GitHub Pages [Brett's GitHub Profile](https://github.c
 - [Class 13](https://BrettF5.github.io/reading-notes/code201/class-13)
 - [Class 14](https://BrettF5.github.io/reading-notes/code201/class-14)
 - [Class 15](https://BrettF5.github.io/reading-notes/code201/class-15)
+
+---
+
+- ## Code 301 - Intermediate Software Development
+
+- ## Code 401 - Advanced Software Development
