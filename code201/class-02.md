@@ -100,6 +100,7 @@ It is used to run a second line of code if the condition if valued false.
 I'm still trying to wrap my head around what I've have all learned in this reading assignment. I need to go and practice what I learned and that will help me have questions as it still all new to me.  This was a lot of reading and I need to see it work before I have better questions. 
 
 ***Link to my homepage for table of contents:***
+
 https://brettf5.github.io/reading-notes/
 
 
