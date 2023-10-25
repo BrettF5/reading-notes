@@ -1,4 +1,22 @@
 
 h1 {
     background-color: green;
+    text-align: center;
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+ul li {
+    list-style-type: square;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+
+ol li {
+    list-style-type: circle;
+    margin-bottom: 15px;
+    padding-left: 10px;
 }

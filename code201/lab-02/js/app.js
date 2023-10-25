@@ -1,15 +1,14 @@
 'use strict';
 
-alert('Hello, Please answer the following question Yes or No.');
+let userName = prompt('Hello, what is your name?');
 
+alert("Hello, " + userName + ". Please answer the following question Yes or No. I'm not that experienced of a programmer to handle any other response... Yet!!!");
 
-let myName = prompt('Is my name Brett?');
+//Asking the user if they know my name
+let myName = prompt('Is my name Brett?, Yes or No?');
 let uppercaseName = myName.toUpperCase();
-console.log(myName);
-console.log(uppercaseName);
 
 //Responed back to the user if they are correct on my name
- 
 if (uppercaseName === 'YES') {
     alert('You are correct!!!');
 } else {
@@ -17,11 +16,9 @@ if (uppercaseName === 'YES') {
 }
 
 // Ask the user if I'm old?
-
 let myAge = prompt('Am I a old man?').toUpperCase();
 
 // Respond back to the user if they are correct on myAge question.
-
 if (myAge === 'YES') {
     alert("No, I'm still young at heart.");
 } else {
@@ -56,3 +53,7 @@ if (myHobby === 'YES') {
 } else {
     alert("Correct. I can not wait for the ski season to start but I'll miss some of it while being in this class.");
 }
+
+
+// Final message to user
+alert('Goodbye, hope you learned a little about me.')
