@@ -56,4 +56,4 @@ User input
 
 :wave:
 
-:point_right: Link to my Read 05 - [Dynamic web pages with JavaScript](https://brettf5.github.io/reading-notes/code102/class-06) :point_left:
+:point_right: Link to my Read 06 - [Dynamic web pages with JavaScript](https://brettf5.github.io/reading-notes/code102/class-06) :point_left:
