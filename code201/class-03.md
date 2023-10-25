@@ -30,9 +30,12 @@ You can change the bullet style in the following ways by using the style tag ele
 ---
 
 **In CSS:**
-```ul {
+
+```
+    ul {
     list-style-type: circle;
-}```
+}
+```
 
 3. When should you use an ordered list vs an unorder list in your HTML document?
 When the sequence of the order matters.  Use a ordered list when the sequence matters like following a certain step of instructions in numbered ordered or chronological events. Use unordered list when it does not matter on the sequence the bullets are displayed.
