@@ -3,6 +3,7 @@ h1 {
     background-color: green;
     text-align: center;
     font-size: 36px;
+    margin-bottom: 0px;
 }
 
 h2 {
@@ -17,8 +18,7 @@ p {
     border: 5px solid black;
 }
 
-ol {
-    list-style: initial;
+ol li {
     list-style-type: circle;
     margin: 15px, 15px, 15px, 15px;
 }
