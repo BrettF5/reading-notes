@@ -10,17 +10,15 @@ h2 {
 }
 
 p {
-    margin-block;
+    margin-block: auto;
+    padding-block: 25px;
+    background-color:cornflowerblue;
+    text-align: center;
+    border: 5px solid black;
 }
 
-ul li {
-    list-style-type: square;
-    margin-bottom: 15px;
-    padding-left: 10px;
-}
-
-ol li {
+ol {
+    list-style: initial;
     list-style-type: circle;
-    margin-bottom: 15px;
-    padding-left: 10px;
+    margin: 15px, 15px, 15px, 15px;
 }
