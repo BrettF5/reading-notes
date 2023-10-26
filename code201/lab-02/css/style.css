@@ -9,6 +9,10 @@ h2 {
     font-size: 24px;
 }
 
+p {
+    margin-block;
+}
+
 ul li {
     list-style-type: square;
     margin-bottom: 15px;
