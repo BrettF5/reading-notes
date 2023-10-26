@@ -2,7 +2,7 @@
 
 
 ## Why this topic matters to me:
-
+Learning more about HTML Links is interesting as I'll be able to add links to other websites or pictures.  Plus, learning further JS functions to make my websire more interactive. 
 
 ---
 
@@ -41,6 +41,11 @@ In HTML and CSS, "normal flow" stands for a normal or baseline standarad for htm
 ## Learn JS
 
 1. Describe the difference between a function declaration and a function invocation.
+A function declaration is way to make a funcition with javascript. Function invocation is a way to call the named function
+
+2. What is the difference between a parameter and an argument?
+Parameters can sometimes be called arguments or attiributes. Can be used interchangeabley but will reference different things. 
+
 
 ---
 
