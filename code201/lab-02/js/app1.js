@@ -110,27 +110,40 @@ if (attemps === 0) {
 
 // Question #7. Question that has multiple possible correct answers stored in an array
 
-function favoriteColor(correctGuess) {
 let favColor = ['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'Purple', 'Pink']
-let counter = 1;
-const tries = 6;
+let counter = 6;
+let questionSeven = ("Please guess my favorite color? Possible choices: " + favColor);
 
-let guessColor = prompt("Please guess my favorite color? Possible choices: " + favColor).toLocaleLowerCase();
+function favoriteColor(correctResponse) {
+    let guessColor = prompt(questionSeven).toLocaleLowerCase();
 
-    while(counter < tries) {
+    while (counter > 0) {
         if (guessColor !== 'green') {
-            guessColor = prompt("Sorry, wrong answer. Please guess my favorite color? Possible choices: " + favColor).toLocaleLowerCase();
-            counter++;
+            guessColor = prompt("Sorry, wrong answer. Please guess my favorite color? Possible choices: " + favColor + " You have " + counter + " left..").toLocaleLowerCase();
+            counter--;
         } else {
-            alert('That is correct!')
-            ++correctGuess;
-            return correctGuess;
+            return('That is correct!');
+            counter = 10;
         }
+    }
+
+    if (counter < 6) {
+        return('Sorry, you ran out of tries...');
     }
 
 }
 
-favoriteColor();
+
+let result = favoriteColor("green");
+console.log(result);
+
+if (result === "That is correct!") {
+    alert(result);
+    ++correctGuess;
+} else {
+    alert('Sorry, that is incorrect.');
+}
+
 
 
 // Final message to user

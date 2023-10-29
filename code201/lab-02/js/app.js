@@ -97,7 +97,7 @@ let tries = 6;
 
 let guessColor = prompt("Please guess my favorite color? Possible choices: " + favColor).toLocaleLowerCase();
 
-while(counter < tries) {
+while (counter < tries) {
     if (guessColor !== 'green') {
         guessColor = prompt("Sorry, wrong answer. Please guess my favorite color? Possible choices: " + favColor).toLocaleLowerCase();
         counter++;
