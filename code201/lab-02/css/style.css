@@ -1,4 +1,8 @@
 
+body {
+    background: papayawhip;
+}
+
 h1 {
     background-color: green;
     text-align: center;
@@ -11,14 +15,29 @@ h2 {
 }
 
 p {
-    margin-block: auto;
+    color:gray;
+    font-size: 18px;
+    /* margin-block: auto;
     padding-block: 25px;
     background-color:cornflowerblue;
     text-align: center;
-    border: 5px solid black;
+    border: 5px solid black; */
 }
 
-ol li {
-    list-style-type: circle;
-    margin: 15px, 15px, 15px, 15px;
+/* Styling my opening <p> Code Follows 201 */
+
+.open {
+    color: black;
+    font-size: 32px;
+    text-align: center;
+}
+
+.listCert {
+    list-style-type:circle;
+    color:black
+}
+
+.listNum {
+    list-style:decimal;
+    color:blue;
 }
