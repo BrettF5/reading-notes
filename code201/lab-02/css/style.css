@@ -12,16 +12,24 @@ h1 {
 
 h2 {
     font-size: 24px;
+    color: black;
 }
 
 p {
     color:gray;
     font-size: 18px;
+    /* width: 150ch; */
+    text-align: center;
     /* margin-block: auto;
     padding-block: 25px;
     background-color:cornflowerblue;
-    text-align: center;
     border: 5px solid black; */
+}
+
+article {
+    display:inline-table;
+    margin: 25px;
+    
 }
 
 /* Styling my opening <p> Code Follows 201 */
@@ -30,14 +38,19 @@ p {
     color: black;
     font-size: 32px;
     text-align: center;
+    border: 2px dashed red;
 }
 
 .listCert {
+    border: 2px dashed red;
+    display: inline-block;
     list-style-type:circle;
-    color:black
+    color:black;
 }
 
 .listNum {
+    border: 2px dashed red;
+    display: inline-block;
     list-style:decimal;
     color:blue;
 }
