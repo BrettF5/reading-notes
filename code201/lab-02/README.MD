@@ -16,7 +16,12 @@
 - In my html, added a top-ten favorite hobbies of mine.
 
 ### Features added for October 26:
+- Added a function for question seven
+- Working on adding functions for all qustions
 
+### Features add fo October 27:
+- Updated CSS to make the list side by side.
+- Update color background
 ### 
 ---
 
