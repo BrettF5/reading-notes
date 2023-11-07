@@ -9,7 +9,7 @@
 1. What does the `<canvas>` allow a developer to acheive?
 Is just a basic HTML element. It allows you to draw elements, animante elements adding visuals/animations to you website.  
 
-2. What is the importance of the closing `</canvas> tag?
+2. What is the importance of the closing `</canvas>` tag?
 The `<canvas>` element requires the closing tag.  It is used for the fallback content in case the browers does not support Canvas and any content between the opening and closing tag will be displayed.
 
 3. Explain what the getContext() method does.
