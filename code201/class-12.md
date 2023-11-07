@@ -6,7 +6,7 @@
 
 ### JavaScript Canvas:
 
-1. What does the <canvas> allow a developer to acheive?
+1. What does the `<canvas>` allow a developer to acheive?
 Is just a basic HTML element. It allows you to draw elements, animante elements adding visuals/animations to you website.  
 
 2. What is the importance of the closing `</canvas> tag?
@@ -48,8 +48,8 @@ I want to know more about Canvas and how it works beside just from the reading f
 
 ## Bookmark and Review:
 
-[Drawing Shapes With Canvas]: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+[Drawing Shapes With Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 
-[Applying Style and Colors - Canvas API]: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
+[Applying Style and Colors - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 
-[Drawing Text - Canvas API]: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text
+[Drawing Text - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
