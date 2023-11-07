@@ -56,3 +56,6 @@ When you have a user using a narrow screen device like an IPhone or Andriod devi
 3. How is `srcset` more helpful for responsive images than CSS or JavaScript?
 
 `srcset` - it will allow you to be able to provide different images files based on the users device.
+
+## Things I want to know more about:
+Love to get more in to seeing how Grid works over Flexbox which I learned last week.
