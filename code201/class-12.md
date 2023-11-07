@@ -42,6 +42,7 @@ A good example is this last Lab 11 project. You can added a more visual chart(Li
 ---
 
 ## Things I want to know more about:
+I want to know more about Canvas and how it works beside just from the reading from this assigment. Exicted to see tomorrow lecture on this subject.
 
 ---
 
