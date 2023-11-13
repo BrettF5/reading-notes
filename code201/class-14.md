@@ -68,6 +68,9 @@ This gives me the ability to make my website more visually appeasing to the view
 ## Bookmark Review and try:
 
 ["Pure CSS Bounce Animation"](https://codepen.io/dp_lewis/pen/QWMxRR)
+
 ["6 Buttons animated"](https://codepen.io/retyui/pen/ByoaXV)
+
 ["CSS3 Animations: Keyframes"](https://codepen.io/akshaychauhan/pen/dyBqVo)
+
 ["404"](https://codepen.io/kieranfivestars/pen/MYdQxX)
