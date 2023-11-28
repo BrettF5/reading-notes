@@ -14,10 +14,10 @@ Component-based architecture focuses on the decomposition of the design into ind
 - CORBA
 - .NET
 
-\1. What is a “component”?
+/1. What is a “component”?
 A component in Component-Based Architecture is a modular, portable, replacable and reusable of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface
 
-\2. What are the characteristics of a component?
+/2. What are the characteristics of a component?
 Characteristics of Components from website www.tutorialspoint.com as it explains it better than I can understand this concept right now. Better for my notes for me right now. 
 - Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
 - Replaceable − Components may be freely substituted with other similar components.
@@ -26,7 +26,7 @@ Not context specific − Components are designed to operate in different environ
 - Encapsulated − A A component depicts the interfaces, which allow the caller to use its functionality, and do not expose details of the internal processes or any internal variables or state.
 - Independent − Components are designed to have minimal dependencies on other components.
 
-\3. What are the advantages of using component-based architecture?
+/3. What are the advantages of using component-based architecture?
 
 - Ease of deployment − As new compatible versions become available, it is easier to replace existing versions with no impact on the other components or the system as a whole.
 
@@ -51,15 +51,15 @@ Not context specific − Components are designed to operate in different environ
 ### What is Props and How to Use it in React
 React is a user interface libarary.
 
-\1. What is “props” short for?
+/1. What is “props” short for?
 Prop stands for "Properties".
 
 It is a keyword in React that is used for passing data from one component to another.  It is a uni-directional flow, data flows one way from parent to child and it is read-only.  
 
-\2. How are props used in React?
+/2. How are props used in React?
 It is an object which is used for passing data in a Uni-directional flow and its read-only
 
-\3. What is the flow of props?
+/3. What is the flow of props?
 Uni-directional flow (parent to child)
 
 --- 
