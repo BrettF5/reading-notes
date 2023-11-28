@@ -5,9 +5,11 @@
 ### React lifecycle:
 
 /1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+
 ‘render’ Happens first.
 
 /2. What is the very first thing to happen in the lifecycle of React?
+
 In the lifecycle of React, the very first thing to happen is "Mounting" phase.
 
 /3. Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates.
@@ -18,6 +20,8 @@ In the lifecycle of React, the very first thing to happen is "Mounting" phase.
 1. ComponentWillUnmount
 
 /4. What does `componentDidMount` do?
+
+It is good place for load anything using a network request or a place that require interaction with the DOM.  
 
 
 ---
