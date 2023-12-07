@@ -4,7 +4,7 @@
 
 ### Functional Programming Concepts:
 
-## I didn't have full access to this reading even after signing up. The site required payment for more access as these where the only options I was given.  It look like I was missing a log of info need for this assignment. The webpage had a log of blank lines and I could not find the answer for some. I got some of my answer from ChatGPT
+## I didn't have full access to this reading even after signing up. The site required payment for more access as these where the only options I was given.  It look like I was missing a bunch of info that was need for this assignment. The webpage had a log of blank lines and I could not find the answer for some of the questions below. I went and got some of my answer from ChatGPT
 
 1\. **What is functional programming?**
 
